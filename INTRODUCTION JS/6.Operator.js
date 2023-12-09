@@ -20,7 +20,7 @@ console.log("PostNumber : " + Newnumber)
 
 let FirstName = "M ";
 let LastName = "Ashok";
-console.log(FirstName + LastName);
+console.log(FirstName + LastName); //Concatition
 
 // 3. Comparison Operator
 let num5 = 6;  //number
@@ -51,7 +51,7 @@ console.log(!(password == confirmPassword))
 
 // 5. Turnary Operator 
 
-let age = 22;
+let age = 26;
 let married = age > 24 ? 'Married' : 'Unmarried';
 console.log(married);
 

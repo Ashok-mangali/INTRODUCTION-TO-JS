@@ -3,7 +3,7 @@
 // 1. number
 // 2. string
 // 3. boolean
-// 4. bigint
+// 4. bigint 
 // 5. null
 // 6. undefined
 // 7. symbol

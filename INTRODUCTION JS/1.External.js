@@ -1,1 +1,1 @@
-console.log("Hello  External File")
+console.log("Hello Ashok")
